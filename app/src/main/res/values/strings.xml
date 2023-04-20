@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Funcionários</string>
+    <string name="new_employee">Novo Funcionário</string>
+    <string name="name_lastname">%1$s %2$s</string>
+    <string name="edt_name_error">O campo "NOME" precisa estar entre 2 e 30 caracteres</string>
+    <string name="edt_lastname_error">O campo "SOBRENOME" precisa estar entre 2 e 50 caracteres</string>
+    <string name="edt_email_error">O campo "E-Mail" não foi preenchido corretamente</string>
+    <string name="edt_nis_error">O campo "NIS/PIS" aceita apenas caracteres numéricos</string>
+</resources>
